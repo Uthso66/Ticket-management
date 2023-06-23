@@ -1,10 +1,23 @@
 # Screeshoot of the project 
+
 ![Screenshot from 2023-06-23 16-50-18](https://github.com/Uthso66/Ticket-management/assets/93869589/462c33a3-46d3-4db1-8f70-a3e9d2c624be)
+
+
 ![Screenshot from 2023-06-23 16-51-06](https://github.com/Uthso66/Ticket-management/assets/93869589/1b5c010a-27ad-486f-b589-a0f09985875e)
+
+
 ![Screenshot from 2023-06-23 16-52-20](https://github.com/Uthso66/Ticket-management/assets/93869589/38578ad1-3687-467c-936f-e3ff139c1989)
+
+
 ![Screenshot from 2023-06-23 16-53-00](https://github.com/Uthso66/Ticket-management/assets/93869589/0bebfb30-8fc0-478e-b0d0-6fb33b566fcb)
+
+
 ![Screenshot from 2023-06-23 16-54-11](https://github.com/Uthso66/Ticket-management/assets/93869589/cc4a9869-9051-45f4-b189-fd8d8003e81d)
+
+
 ![Screenshot from 2023-06-23 16-54-28](https://github.com/Uthso66/Ticket-management/assets/93869589/96d72697-aa4d-4eaa-8fbf-79e49b60c519)
+
+
 ![Screenshot from 2023-06-23 16-54-54](https://github.com/Uthso66/Ticket-management/assets/93869589/4e646004-7a00-4ef2-8478-0e09e0f656d6)
 
 
