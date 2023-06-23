@@ -1,21 +1,45 @@
-# Screeshoot of the project 
+# Screeshots of the project and Explanation
+
+
+This is the homepage of the project. Here you can see the table-like structure of the project homepage where we have three columns with names as Ticket types, Description, and Action. All the column names are self-explanatory. 
+
 
 ![Screenshot from 2023-06-23 16-50-18](https://github.com/Uthso66/Ticket-management/assets/93869589/462c33a3-46d3-4db1-8f70-a3e9d2c624be)
 
 
+Clicking on the Add ticket type buttons will give you the pop-up window shown in the below screenshot. Where you can add new ticket types entry. Description for the ticket type is not mandatory. 
+
 ![Screenshot from 2023-06-23 16-51-06](https://github.com/Uthso66/Ticket-management/assets/93869589/1b5c010a-27ad-486f-b589-a0f09985875e)
+
+
+If you click the cancel button the window will be closed.
+
+
+![Screenshot from 2023-06-23 16-50-18](https://github.com/Uthso66/Ticket-management/assets/93869589/462c33a3-46d3-4db1-8f70-a3e9d2c624be)
+
+
+ If you click the submit button new ticket type will be created. like the below screenshot.
 
 
 ![Screenshot from 2023-06-23 16-52-20](https://github.com/Uthso66/Ticket-management/assets/93869589/38578ad1-3687-467c-936f-e3ff139c1989)
 
 
+If you try to create a ticket type without giving the ticket type entry. There will be a warning message "Please include Ticket types".
+
+
 ![Screenshot from 2023-06-23 16-53-00](https://github.com/Uthso66/Ticket-management/assets/93869589/0bebfb30-8fc0-478e-b0d0-6fb33b566fcb)
+
+
+Clicking on the edit button which is denoted with a pen icon. You can edit both the ticket type and description. The below screenshot shows the procedure.
 
 
 ![Screenshot from 2023-06-23 16-54-11](https://github.com/Uthso66/Ticket-management/assets/93869589/cc4a9869-9051-45f4-b189-fd8d8003e81d)
 
 
 ![Screenshot from 2023-06-23 16-54-28](https://github.com/Uthso66/Ticket-management/assets/93869589/96d72697-aa4d-4eaa-8fbf-79e49b60c519)
+
+
+In the action column clicking the delete icon will delete the whole row of the table.
 
 
 ![Screenshot from 2023-06-23 16-54-54](https://github.com/Uthso66/Ticket-management/assets/93869589/4e646004-7a00-4ef2-8478-0e09e0f656d6)
